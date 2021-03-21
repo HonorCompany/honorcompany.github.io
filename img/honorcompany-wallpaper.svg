@@ -151,9 +151,11 @@
   <use href="#vertical" x="1280" y="-609"/>
   <use href="#vertical" x="1344" y="-2092"/>
   <use href="#vertical" x="1408" y="-3567"/>
+  <use href="#vertical" x="1408" y="1263"/>
   <use href="#vertical" x="1472" y="-217"/>
   <use href="#vertical" x="1536" y="-1694"/>
   <use href="#vertical" x="1600" y="-3175"/>
+  <use href="#vertical" x="1600" y="1652"/>
   <use href="#vertical" x="1664" y="175"/>
 
 </svg>
