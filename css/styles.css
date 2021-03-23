@@ -1,0 +1,26 @@
+body {
+  background-color: #3e5f8a;
+  background-image: url(../img/honorcompany-wallpaper.svg);
+  background-size: 4000px 3464.96px;
+  background-repeat: repeat;
+}
+
+#logo {
+  position: absolute;
+  top: 22.77%;
+  left: 34.16%;
+  width: 31.25%;
+  height: 54.44%;
+  visibility: visible;
+  z-index: 0;
+}
+
+#banner {
+  background-color: #242526;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 56px;
+  z-index: 32;
+}
